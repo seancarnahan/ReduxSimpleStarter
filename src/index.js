@@ -1,4 +1,4 @@
-//import statements to make App work
+//import statements to make App component work
 //'react' is installed in node_modules as a dependency
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
